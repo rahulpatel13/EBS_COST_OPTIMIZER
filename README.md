@@ -31,6 +31,9 @@ IAM Policy and Roles
 4. terraform destroy 
 ```
 
+## What this will do in simple words
+Infrastructure provisioning using Terraform. This will delete all the unallocated snapshots that aren't associated with any volume or EC2 instance. This operation is performed by a Lambda function which is triggered every 7 days by an EventBridge scheduler.
+
 ## Architecture
 
 ![App Screenshot](https://github.com/rahulpatel13/EBS_COST_OPTIMIZER/blob/main/cost_optimizer.png)
