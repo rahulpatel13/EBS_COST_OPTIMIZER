@@ -33,5 +33,5 @@ IAM Policy and Roles
 
 ## Architecture
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/rahulpatel13/EBS_COST_OPTIMIZER/blob/main/cost_optimizer.png)
 
